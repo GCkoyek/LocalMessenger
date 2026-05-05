@@ -1,0 +1,19 @@
+C:\Users\bcu001\Desktop\Client\Client\Client\bin\Release\Client.exe.config
+C:\Users\bcu001\Desktop\Client\Client\Client\bin\Release\Client.exe
+C:\Users\bcu001\Desktop\Client\Client\Client\bin\Release\Client.pdb
+C:\Users\bcu001\Desktop\Client\Client\Client\obj\Release\Client.csproj.AssemblyReference.cache
+C:\Users\bcu001\Desktop\Client\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\bcu001\Desktop\Client\Client\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\bcu001\Desktop\Client\Client\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\bcu001\Desktop\Client\Client\Client\obj\Release\Client.exe
+C:\Users\bcu001\Desktop\Client\Client\Client\obj\Release\Client.pdb
+C:\Users\bcu001\Desktop\Client\Client\Client\obj\Release\Client.exe.config
+E:\losowe gówna\Client\Client\Client\bin\Release\Client.exe.config
+E:\losowe gówna\Client\Client\Client\bin\Release\Client.exe
+E:\losowe gówna\Client\Client\Client\bin\Release\Client.pdb
+E:\losowe gówna\Client\Client\Client\obj\Release\Client.csproj.AssemblyReference.cache
+E:\losowe gówna\Client\Client\Client\obj\Release\Client.Properties.Resources.resources
+E:\losowe gówna\Client\Client\Client\obj\Release\Client.csproj.GenerateResource.cache
+E:\losowe gówna\Client\Client\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+E:\losowe gówna\Client\Client\Client\obj\Release\Client.exe
+E:\losowe gówna\Client\Client\Client\obj\Release\Client.pdb
