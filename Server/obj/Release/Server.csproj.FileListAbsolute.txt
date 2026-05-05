@@ -1,0 +1,10 @@
+E:\losowe gówna\Server\Server\Server\bin\Release\Server.exe.config
+E:\losowe gówna\Server\Server\Server\bin\Release\Server.exe
+E:\losowe gówna\Server\Server\Server\bin\Release\Server.pdb
+E:\losowe gówna\Server\Server\Server\obj\Release\Server.csproj.AssemblyReference.cache
+E:\losowe gówna\Server\Server\Server\obj\Release\Server.ServerForm.resources
+E:\losowe gówna\Server\Server\Server\obj\Release\Server.Properties.Resources.resources
+E:\losowe gówna\Server\Server\Server\obj\Release\Server.csproj.GenerateResource.cache
+E:\losowe gówna\Server\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+E:\losowe gówna\Server\Server\Server\obj\Release\Server.exe
+E:\losowe gówna\Server\Server\Server\obj\Release\Server.pdb

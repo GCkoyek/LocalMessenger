@@ -1,0 +1,11 @@
+C:\Users\bcu001\Desktop\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\bcu001\Desktop\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\bcu001\Desktop\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\bcu001\Desktop\Server\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\bcu001\Desktop\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\bcu001\Desktop\Server\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\bcu001\Desktop\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\bcu001\Desktop\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\bcu001\Desktop\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\bcu001\Desktop\Server\Server\Server\obj\Debug\Server.exe.config
+C:\Users\bcu001\Desktop\Server\Server\Server\obj\Debug\Server.ServerForm.resources
